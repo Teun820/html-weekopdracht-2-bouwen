@@ -116,4 +116,18 @@ er tekst bijkomt onder de andere zin
 dat er een nieuw stuk tekst bijkomt
 
 </details>
+
+<details>
+<summary>06-11-2026 11:49:11 (UTC+01:00) | Opslaan | Teun820 | 1 gewijzigde bestanden (+0/−1)</summary>
+
+- **Uitgevoerd door:** Teun820
+- **Branch:** main
+- **Websitebestanden na deze actie:** 3
+- **Vorige opgeslagen versie:** [dd95a302377c8fa62b8c50b6834e9b45c2c79e33](https://github.com/Teun820/html-weekopdracht-2-bouwen/commit/dd95a302377c8fa62b8c50b6834e9b45c2c79e33)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 0 | 1 |
+
+</details>
 <!-- arhc-weblab:log:end -->
