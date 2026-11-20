@@ -224,4 +224,22 @@ het hetzelfde blijft
 dat het laaste stukje dikgedrukt wordt
 
 </details>
+
+<details>
+<summary>20-11-2026 11:36:53 (UTC+01:00) | Run | Teun820 | 1 gewijzigde bestanden (+2/−2)</summary>
+
+- **Uitgevoerd door:** Teun820
+- **Branch:** main
+- **Websitebestanden na deze actie:** 3
+- **Vorige opgeslagen versie:** [cb0c95eef1d74d47af6c3c68f5684c5d32311f6c](https://github.com/Teun820/html-weekopdracht-2-bouwen/commit/cb0c95eef1d74d47af6c3c68f5684c5d32311f6c)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 2 | 2 |
+
+**Verwachting voor Run**
+
+dat er een stuk schuin komt staan en onderstreept
+
+</details>
 <!-- arhc-weblab:log:end -->
