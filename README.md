@@ -314,4 +314,22 @@ laatste zin groter
 dat er een opsomming komt
 
 </details>
+
+<details>
+<summary>20-11-2026 11:47:08 (UTC+01:00) | Run | Teun820 | 1 gewijzigde bestanden (+1/−1)</summary>
+
+- **Uitgevoerd door:** Teun820
+- **Branch:** main
+- **Websitebestanden na deze actie:** 3
+- **Vorige opgeslagen versie:** [ab1945d39cdf2e3053b6ce257e77418311ca8622](https://github.com/Teun820/html-weekopdracht-2-bouwen/commit/ab1945d39cdf2e3053b6ce257e77418311ca8622)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 1 | 1 |
+
+**Verwachting voor Run**
+
+dikgedrukt
+
+</details>
 <!-- arhc-weblab:log:end -->
