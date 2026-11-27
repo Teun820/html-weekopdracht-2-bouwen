@@ -398,4 +398,21 @@ het allemaal terug komt
 | index.html | Aangepast | 2 | 1 |
 
 </details>
+
+<details>
+<summary>27-11-2026 11:50:20 (UTC+01:00) | Opslaan | Teun820 | 2 gewijzigde bestanden (+4/−14; 1 binair)</summary>
+
+- **Uitgevoerd door:** Teun820
+- **Branch:** main
+- **Websitebestanden na deze actie:** 4
+- **Vorige opgeslagen versie:** [ecb657b80a9c16cb0d78c0e496807bd94263ffd9](https://github.com/Teun820/html-weekopdracht-2-bouwen/commit/ecb657b80a9c16cb0d78c0e496807bd94263ffd9)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| bowlen.jpeg | Nieuw (binair) | — | — |
+| index.html | Aangepast | 4 | 14 |
+
+Binaire bestanden hebben geen regelverschil; — betekent niet van toepassing.
+
+</details>
 <!-- arhc-weblab:log:end -->
